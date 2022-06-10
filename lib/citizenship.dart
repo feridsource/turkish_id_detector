@@ -1,0 +1,4 @@
+enum Citizenship {
+  turkishCitizen,
+  otherCitizen
+}
