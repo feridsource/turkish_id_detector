@@ -1,7 +1,8 @@
 name: turkish_id_detector
-description: Detects information from Turkish ID card.
+description: Detects information from Turkish ID cards.
 version: 0.0.1
-homepage:
+homepage: https://github.com/feridsource/turkish_id_detector
+repository: https://github.com/feridsource/turkish_id_detector
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
@@ -10,6 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  get: ^4.6.5
   google_ml_kit: ^0.8.0
 
 dev_dependencies:
